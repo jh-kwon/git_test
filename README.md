@@ -3,3 +3,5 @@
 #test revert from br_2
 #commit after revert
 #commit after merge br_1 & master
+
+# fix bug @ release branch
