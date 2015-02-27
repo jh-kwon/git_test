@@ -5,3 +5,4 @@
 #commit after merge br_1 & master
 
 # fix bug @ release branch
+# add feature @ feature branch
